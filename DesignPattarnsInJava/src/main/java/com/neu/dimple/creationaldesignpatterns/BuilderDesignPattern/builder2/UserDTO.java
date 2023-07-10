@@ -1,7 +1,7 @@
-package com.neu.dimple.creationaldesignpatterns.builder2;
+package com.neu.dimple.creationaldesignpatterns.BuilderDesignPattern.builder2;
 
 
-import com.neu.dimple.creationaldesignpatterns.builder.Address;
+import com.neu.dimple.creationaldesignpatterns.BuilderDesignPattern.builder.Address;
 
 import java.time.LocalDate;
 import java.time.Period;

@@ -1,4 +1,4 @@
-package com.neu.dimple.creationaldesignpatterns.builder;
+package com.neu.dimple.creationaldesignpatterns.BuilderDesignPattern.builder;
 
 import java.time.LocalDate;
 import java.time.Period;
