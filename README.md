@@ -7,7 +7,7 @@ Three Types of Design Patterns:
   - [Simple Factory Pattern](https://github.com/nitr-dimple/Learning-Design-Patterns-Java/tree/main/DesignPattarnsInJava/src/main/java/com/neu/dimple/creationaldesignpatterns/SimpleFactoryDesignPattern)
   - [Factory Method Pattern](https://github.com/nitr-dimple/Learning-Design-Patterns-Java/tree/main/DesignPattarnsInJava/src/main/java/com/neu/dimple/creationaldesignpatterns/FactoryDesignPatterns)
   - [Prototype Pattern](https://github.com/nitr-dimple/Learning-Design-Patterns-Java/tree/main/DesignPattarnsInJava/src/main/java/com/neu/dimple/creationaldesignpatterns/PrototypeDesignPattern)
-  - Abstract Factory Pattern
+  - [Abstract Factory Pattern](https://github.com/nitr-dimple/Learning-Design-Patterns-Java/tree/main/DesignPattarnsInJava/src/main/java/com/neu/dimple/creationaldesignpatterns/AbstractFactoryDesignPattern)
   - Singleton Pattern
   - Object Pool Pattern
 - Structural Design Pattern 

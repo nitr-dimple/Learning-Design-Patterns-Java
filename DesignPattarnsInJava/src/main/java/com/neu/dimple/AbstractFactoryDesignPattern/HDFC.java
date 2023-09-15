@@ -1,14 +1,14 @@
-package com.neu.dimple.creationaldesignpatterns.AbstractFactoryDesignPattern;
+package com.neu.dimple.AbstractFactoryDesignPattern;
 
 /**
  * @author Dimpleben Kanjibhai Patel
  */
-public class SBI implements Bank{
+public class HDFC implements Bank{
 
     private final String name;
 
-    public SBI(){
-        name = "SBI";
+    public HDFC(){
+        name = "HDFC";
     }
 
     @Override
