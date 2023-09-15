@@ -37,6 +37,7 @@ public abstract class GameUnit implements Cloneable{
 
     protected void initialize(){
         this.position = Point3D.ZERO;
+        reset();
     }
 
     protected abstract void reset();
