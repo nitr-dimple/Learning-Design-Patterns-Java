@@ -1,4 +1,4 @@
-package com.neu.dimple.creationaldesignpatterns.FactoryDesignPattern;
+package com.neu.dimple.FactoryDesignPattern;
 
 /**
  * @author Dimpleben Kanjibhai Patel

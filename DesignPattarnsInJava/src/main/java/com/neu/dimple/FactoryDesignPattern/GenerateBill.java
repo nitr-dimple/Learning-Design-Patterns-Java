@@ -1,4 +1,4 @@
-package com.neu.dimple.creationaldesignpatterns.FactoryDesignPattern;
+package com.neu.dimple.FactoryDesignPattern;
 
 import java.util.Scanner;
 
