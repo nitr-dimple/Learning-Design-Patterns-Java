@@ -23,4 +23,9 @@ public class BlogPost extends Post{
     public void setTags(String[] tags) {
         this.tags = tags;
     }
+
+    @Override
+    public void print(){
+        System.out.println( "Printing from blog post");
+    }
 }

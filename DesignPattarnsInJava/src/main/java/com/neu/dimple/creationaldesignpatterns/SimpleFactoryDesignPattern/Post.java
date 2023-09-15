@@ -52,4 +52,8 @@ public abstract class Post {
     public void setPublishedOn(LocalDateTime publishedOn) {
         this.publishedOn = publishedOn;
     }
+
+    public void print(){
+        System.out.println( "Printing from post");
+    }
 }
