@@ -11,7 +11,7 @@ Three Types of Design Patterns:
   - [Singleton Pattern](https://github.com/nitr-dimple/Learning-Design-Patterns-Java/tree/main/DesignPattarnsInJava/src/main/java/com/neu/dimple/creationaldesignpatterns/SingletonDesignPattern)
   - [Object Pool Pattern](https://github.com/nitr-dimple/Learning-Design-Patterns-Java/tree/main/DesignPattarnsInJava/src/main/java/com/neu/dimple/creationaldesignpatterns/ObjectPoolDesignPattern)
 - Structural Design Pattern 
-  - Adapter Pattern
+  - [Adapter Pattern](https://github.com/nitr-dimple/Learning-Design-Patterns-Java/tree/main/DesignPattarnsInJava/src/main/java/com/neu/dimple/structuraldesignpatterns/AdapterDesignPatter)
   - Bridge Pattern
   - Composite Pattern
   - Decorator Pattern
