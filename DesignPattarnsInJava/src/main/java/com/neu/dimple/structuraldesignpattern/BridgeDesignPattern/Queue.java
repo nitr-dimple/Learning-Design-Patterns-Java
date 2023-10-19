@@ -3,7 +3,7 @@ package com.neu.dimple.structuraldesignpattern.BridgeDesignPattern;
 /**
  * @author Dimpleben Kanjibhai Patel
  */
-public class Queue<T> implements FillCollection<T>{
+public class Queue<T> implements FifoCollection<T> {
 
     private LinkedList<T> list;
 

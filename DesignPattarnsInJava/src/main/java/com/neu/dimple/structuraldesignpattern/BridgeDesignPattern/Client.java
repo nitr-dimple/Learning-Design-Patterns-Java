@@ -6,7 +6,7 @@ package com.neu.dimple.structuraldesignpattern.BridgeDesignPattern;
 public class Client {
 
     public static void main(String[] args) {
-        FillCollection<Integer> collection = new Queue<>(new SingleLinkedList<>());
+        FifoCollection<Integer> collection = new Queue<>(new SingleLinkedList<>());
         collection.offer(10);
         collection.offer(20);
         collection.offer(30);
