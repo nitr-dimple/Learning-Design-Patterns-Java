@@ -17,7 +17,7 @@ Three Types of Design Patterns:
   - [Decorator Pattern](https://github.com/nitr-dimple/Learning-Design-Patterns-Java/tree/main/DesignPattarnsInJava/src/main/java/com/neu/dimple/structuraldesignpattern/DecoratorDesignPattern)
   - Façade Pattern(https://github.com/nitr-dimple/Learning-Design-Patterns-Java/tree/main/DesignPattarnsInJava/src/main/java/com/neu/dimple/structuraldesignpattern/FacadeDesignPattern)
   - Flyweight Pattern(https://github.com/nitr-dimple/Learning-Design-Patterns-Java/tree/main/DesignPattarnsInJava/src/main/java/com/neu/dimple/structuraldesignpattern/FlyWeightDesignPattern)
-  - Proxy Pattern
+  - Proxy Pattern(https://github.com/nitr-dimple/Learning-Design-Patterns-Java/tree/main/DesignPattarnsInJava/src/main/java/com/neu/dimple/structuraldesignpattern/ProxyDesignPattern)
 - Behavioral Design Pattern
   - Chain of Responsibility Pattern
   - Command Pattern 
