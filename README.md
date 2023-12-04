@@ -27,6 +27,6 @@ Three Types of Design Patterns:
   - Memento Pattern
   - Observer Pattern
   - State Pattern
-  - Strategy Pattern
+  - [Strategy Pattern](https://github.com/nitr-dimple/Learning-Design-Patterns-Java/tree/main/DesignPattarnsInJava/src/main/java/com/neu/dimple/behavioraldesignpattern/StrategyDesignPattern)
   - Template Pattern
   - Visitor Pattern
