@@ -20,7 +20,7 @@ Three Types of Design Patterns:
   - [Proxy Pattern](https://github.com/nitr-dimple/Learning-Design-Patterns-Java/tree/main/DesignPattarnsInJava/src/main/java/com/neu/dimple/structuraldesignpattern/ProxyDesignPattern)
 - Behavioral Design Pattern
   - Chain of Responsibility Pattern
-  - Command Pattern 
+  - [Command Pattern](https://github.com/nitr-dimple/Learning-Design-Patterns-Java/tree/main/DesignPattarnsInJava/src/main/java/com/neu/dimple/behavioraldesignpattern/CommandDesignPattern) 
   - Interpreter Pattern
   - Iterator Pattern
   - Mediator Pattern
